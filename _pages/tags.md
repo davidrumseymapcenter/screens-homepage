@@ -1,6 +1,6 @@
 ---
 layout: cloudtag
-title: Tags
+title: Apple Vision Pro User Guide
 permalink: /tags
 show_breadcrumb   : true
 ---
