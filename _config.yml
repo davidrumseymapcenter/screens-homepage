@@ -99,8 +99,8 @@ navbar:
   nav:
   - title   : Screens
     child   : 
-      - title : Screensavers # Label
-        url   : /screens-savers # url
+      - title : Screensaver # Label
+        url   : /screens-saver # url
       - title : Open Hours Setup
         url   : /screens-setup-open-hours
       - title : Event Setup
