@@ -2,7 +2,7 @@
 layout: default
 title: Screensaver
 permalink: /ws-screensaver
-header_type: hero
+header_type: base
 subtitle: DRMC Wall Screens
 ---
 
