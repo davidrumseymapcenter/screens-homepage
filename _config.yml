@@ -109,6 +109,12 @@ navbar:
         url   : /ws-how-to
       - title : Troubleshooting
         url   : /ws-troubleshooting
+  - title   : Ideum Boards
+    child   :
+      - title : How-To
+        url   : /ib-how-to
+      - title : Troubleshooting
+        url   : /ib-troubleshooting
   - title   : Apple Vision Pro
     child   :
       - title : Working with Patrons
