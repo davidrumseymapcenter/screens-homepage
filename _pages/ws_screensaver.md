@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Screensaver
-permalink: /screens-saver
+permalink: /ws-screensaver
 header_type: hero
-subtitle: Screens
+subtitle: DRMC Wall Screens
 ---
 
 [**DRMC Overnight Screensaver**](https://docs.google.com/presentation/d/1VLD1DQteF5fdRQ2xBjeqwhVvrGKBmRXoOJ1k6dmiZfg/edit#slide=id.p)

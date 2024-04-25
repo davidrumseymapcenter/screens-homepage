@@ -1,9 +1,9 @@
 ---
 layout: default
 title: How-To
-permalink: /screens-how-to
+permalink: /ws-how-to
 header_type: hero
-subtitle: Screens
+subtitle: DRMC Wall Screens
 ---
 
 Here you will find a guide on how to operate the DRMC wall screens and CineNet configuration tablets.

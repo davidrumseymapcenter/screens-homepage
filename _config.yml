@@ -100,15 +100,15 @@ navbar:
   - title   : Screens
     child   : 
       - title : Screensaver # Label
-        url   : /screens-saver # url
+        url   : /ws-screensaver # url
       - title : Open Hours Setup
-        url   : /screens-setup-open-hours
+        url   : /ws-setup-open-hours
       - title : Event Setup
-        url   : /screens-setup-events
+        url   : /ws-setup-events
       - title : How-To
-        url   : /screens-how-to
+        url   : /ws-how-to
       - title : Troubleshooting
-        url   : /screens-troubleshooting
+        url   : /ws-troubleshooting
   - title   : Apple Vision Pro
     child   :
       - title : Working with Patrons
@@ -129,6 +129,8 @@ navbar:
         url   : https://library.stanford.edu/libraries/david-rumsey-map-center
       - title : Stanford Libraries
         url   : https://library.stanford.edu/
+      - title : Google Earth RMC
+        url   : https://www.davidrumsey.com/view/google-earth
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		

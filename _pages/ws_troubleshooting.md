@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Troubleshooting
-permalink: /screens-troubleshooting
+permalink: /ws-troubleshooting
 header_type: hero
-subtitle: Screens
+subtitle: DRMC Wall Screens
 ---
 
 Here you will find information on resolving common and recurring issues affecting the DRMC wall screens.
