@@ -44,7 +44,7 @@ The volume slider functions in the same manner as the volume slider in the speak
 
 ### Podium Mic
 
-Add content
+The modium mic section allows you to control the podium microhpone in the same way that you control the handheld microhopnes, with the exception that you do not need to physically turn on the podium microhpone itself. 
 
 ## Feedback
 
@@ -52,6 +52,26 @@ Add content
 
 # Video
 
-Add sections and content
+Video settings and routing for the DRMC wall screens are similarly controlled using the Cinenet tablets.
+
+## Selecting a Screen
+
+Add content
+
+## CineNet Tablet Display
+
+Add content
+
+### Layouts
+
+Add content
+
+### Assets
+
+Add content
+
+## DVR-CAM
+
+Add content
 
 # [Disco](https://www.youtube.com/watch?v=lqBhgEQ4LT0)

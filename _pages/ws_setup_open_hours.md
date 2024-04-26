@@ -10,4 +10,8 @@ Here you will find directions on how to set up the 3x3 and 4x4 wall screens for 
 
 # 3x3 Screen
 
+Add content [davidrumsey.com](https://davidrumsey.com)
+
 # 4x4 Screen
+
+Add content

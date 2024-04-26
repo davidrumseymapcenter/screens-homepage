@@ -7,3 +7,7 @@ subtitle: Ideum Boards
 ---
 
 Here you will find a guide on how to operate the Center and Rotunda Ideum Boards.
+
+# Terra
+
+Add content

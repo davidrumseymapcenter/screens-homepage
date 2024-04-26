@@ -7,3 +7,7 @@ subtitle: Apple Vision Pro
 ---
 
 Here you will find a guide describing how to set up and guide DRMC patrons through the use of the Apple Vision Pro.
+
+# Guest Mode
+
+Add content

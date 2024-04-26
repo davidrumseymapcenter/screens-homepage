@@ -7,3 +7,11 @@ subtitle: Apple Vision Pro
 ---
 
 Here you will find information on Globes, an app developed by Monash University in collaboration with David Rumsey for the Apple Vision Pro.
+
+# Globes Features
+
+Add content
+
+# Globes Gestures
+
+Add content

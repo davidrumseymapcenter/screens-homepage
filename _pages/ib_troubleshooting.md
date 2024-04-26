@@ -7,3 +7,7 @@ subtitle: Ideum Boards
 ---
 
 Here you will find information on common and recurring issues affecting the Center and Rotunda Ideum Boards.
+
+# Terra not displaying properly
+
+Add content
