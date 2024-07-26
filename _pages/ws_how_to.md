@@ -10,7 +10,7 @@ Here you will find a guide on how to operate the DRMC wall screens and CineNet c
 
 # Audio
 
-All audio settings are found by selecting the "Audio" icon on the right-hand side bar of the CineNet tablets. Doing so will bring up a menu that looks like this: 
+All audio settings are found by selecting the "Audio" icon on the right-hand side bar of the 4x4 CineNet tablet. Doing so will bring up a menu that looks like this: 
 
 #include image
 
@@ -18,7 +18,7 @@ All audio settings are found by selecting the "Audio" icon on the right-hand sid
 
 To change the source of the center speakers audio output, select the relevant input source from the list of inputs. "4x4" refers to the 4x4 bravo computer, and "BYOD" refers to any external computer plugged into the BYOD HDMI cable on the podium. 
 
-If routing audio from BYOD, you may need to configure the audio output on the external computer by routing it through "Tesiraforte."
+To play audio from BYOD, you may need to configure the audio output on the external computer by routing it through "Tesiraforte."
 
 "WEPRESENT 1" through "WEPRESENT 6" refer to legacy devices that are left over from the system before the 2021 refresh. They are no longer operational.
 
@@ -48,30 +48,42 @@ The modium mic section allows you to control the podium microhpone in the same w
 
 ## Feedback
 
-Add content
+While rare, it is possible to generate a feedback loop with the center microphones. If you hear a feedback loop beginning, immediately shut off the speakers, presentation audio, and microphone inputs from the 4x4 CineNet tablets. Then, when the feedback has resided, slowly increase the level of each audio source until the appropriate volume has been reached.
 
 # Video
 
 Video settings and routing for the DRMC wall screens are similarly controlled using the Cinenet tablets.
 
-## Selecting a Screen
+## Selecting a Screen 
 
-Add content
+By default, each CineMassive tablet is set to control one screen. However, these connections are not hardwired. By tapping "End Start 3x3 Presentation" or "End Start 4x4 Presentation," you will be brought to the CineNet landing page. Using the dropdown menu, you can choose whether you want that tablet to control the 3x3 screen or the 4x4 screen. After selecting a screen, tap "Start Presentation."\
 
 ## CineNet Tablet Display
 
-Add content
+Along with volume and camera settings, you can alter display input settings for both the 3x3 and 4x4 using the 4x4 presentation mode. The 3x3 presentation mode, on the other hand, only allows you to adjust the 3x3 display input. While the 3x3 should generally be set to the 3x3 presentation mode for consistency's sake, setting both tablets to the 4x4 presentation mode can be useful during events if you need to adjust volume levels or other settings from behind the reference desk without interrupting the current speaker's presentation. If you have the 3x3 tablet set to the 4x4 presentation mode, you can change the 3x3 video settings by selecting "3x3 Video Wall" from the dropdown at the top of the screen.
 
 ### Layouts
 
-Add content
+The Layouts tab allows you to adjust how much of the display is used projecting the bravo computer screen. By default the screen is projected to the entire display. However, during events with attendees seated behind heach other in rows of chairs, it can be useful to shift the display off the bottom row of screens to provide attendees with a better view of the display. To change the displayed layout, tap the desired layout preset in the menu.
+
+Custom layouts can also be created, allowing for the display of both the 3x3 and 4x4 bravos on the same screen in a variety of configurations.
 
 ### Assets
 
-Add content
+The assets tab is where you choose the display input for the video wall. In the 4x4 presentation mode, there are a number of inputs to choose from: 4x4 Bravo, 3x3 Bravo, two BYOD settings, etc.
+
+To set the input, tap and drag the desired input source over the large orange box in the middle of the screen.
 
 ## DVR-CAM
 
-Add content
+The DVR-CAM tab allows you to control the camera on the pillar to the left of the Bellerby Globe. Tapping the up, down, left, or right arrows will pan the camera accordingly, and tapping the zoom in and out icons will adjust the camera's zoom level.
+
+Below the pan and zoom controls are a number of preset positions. Tapping a number preset will pan/zoom the camera to the correspnding view. They are as follows:
+
+1. Podium, zoomed in on the speaker
+2. Screen and Podium
+3. 3x3 Screen
+4. 3x3 Screen, zoomed-out
+5. Area just in front of the 4x4
 
 # [Disco](https://www.youtube.com/watch?v=lqBhgEQ4LT0)
