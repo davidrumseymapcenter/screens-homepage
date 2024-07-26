@@ -103,8 +103,8 @@ navbar:
         url   : /ws-screensaver # url
       - title : How-To
         url   : /ws-how-to
-      - title : Open Hours Setup
-        url   : /ws-setup-open-hours
+      - title : Open Hours Setup/Close Down
+        url   : /ws-setup-closedown
       - title : Event Setup
         url   : /ws-setup-events
       - title : Troubleshooting
